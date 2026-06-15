@@ -9,8 +9,8 @@ VoxelMorph: a learning framework for deformable medical image registration.
 IEEE transactions on medical imaging, 38(8), 1788-1800.
 
 Modified and tested by:
-Haiqiao Wang
-2110246069@email.szu.edu.cn
+SiQi Xiao
+2510247091@email.szu.edu.cn
 Shenzhen University
 '''
 
